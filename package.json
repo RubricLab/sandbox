@@ -29,5 +29,5 @@
 		"lint": "eslint . --ext .js,.jsx,.cjs,.mjs,.json,.ts,.tsx",
 		"start": "next start"
 	},
-	"version": "0.0.0"
+	"version": "0.0.1"
 }
